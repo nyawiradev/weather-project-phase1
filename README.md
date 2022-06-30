@@ -1,4 +1,4 @@
-#Weather App Project
+Weather App Project
 
 
 Simple weather app using HTML, CSS, and JavaScript
